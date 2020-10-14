@@ -13,6 +13,7 @@ Hi, here are some rules to carry out this story oav;
 
 - You **MUST** create a git repository named `cx-algo-oav1`
 - You **MUST** create a file called `.author` with your firstname and lastname followed by a newline.
+- You **MUST** create a file for each exercises **e01.js**, **e02.js**, etc
 
 ```sh
 ~/fp-exercises ❯❯❯ cat -e .author
@@ -68,6 +69,36 @@ Due to cosmic radiation, some of the “SOS” messages were altered during tran
 The goal of the function is to determine how many letters were altered during transmission.<br />
 
 Exemple: for the input `SOFSOSSISSOW` the function will return 3
+
+### 04 Hello, Array
+
+#### 4.1 Count
+
+Create a function that take an array as an input and calculate the number of occurrences of a given element in an array.
+
+#### 4.2 Average
+
+Create a function that calculate the average of the elements of an array.
+
+#### 4.3 Min
+
+Create a function that calculate the minimum of the elements of an array.
+
+#### 4.4 Max
+
+Create a function that calculate the maximum of the elements of an array.
+
+#### 4.5 Max
+
+Create a function that calculate the maximum of the elements of an array.
+
+#### 4.6 Shift
+
+Create a function that shift the elements of an array.
+
+#### 4.7 Diff
+
+Create a function that calculates the largest deviation in an array (the deviation is the absolute value of the difference of two elements)
 
 ### 0X #soon
 
