@@ -25,7 +25,7 @@ Majdi Toumi$
 
 > Don't forget, there is no useless question :-)
 
-- You **MUST** return all exercises before Friday October, 16 at 16:00
+- You **MUST** return all exercises before Tuesday December, 15 at 16:00
 - You **MUST** add `pu-erh` user as a collaborator.
 - YOU **MUST** define all functions signature by yourself :)
 
